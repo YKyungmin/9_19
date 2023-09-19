@@ -1,1 +1,12 @@
-{"version":3,"sourceRoot":"","sources":["../scss/_reset.scss","../scss/style.scss"],"names":[],"mappings":"AAAA;EACC;EACA;EACA;;;AAGD;AAAA;AAAA;EAGC;;;AAGD;EACC;;;ACXD;EACC;;AAEA;EACC;EACA;EACA;EAEA;EAEA;;AAEA;EACC;EACA;EACA;;AAGD;EACC;;AAGD;EACC;EACA;EACA;EACA;EACA;EACA;;;AAKH;EACC;IACC;;EAGC;IACC;;EAGD;IACC;;;AAMJ;EACC;IACC;;EAEA;IACC;;EACA;IACC;;EAGD;IACC","file":"style.css"}
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../scss/_reset.scss",
+    "../scss/_variable.scss",
+    "../scss/style.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACC;EACA;EACA;;;AAGD;AAAA;AAAA;EAGC;;;AAGD;EACC;;;ACbD;EACC;EACA;EACA;;;ACAD;EACC;;AAEA;EACC;EACA;EACA;EAEA;EAEA;;AAEA;EACC;EACA;EACA;;AAGD;EACC;;AAGD;EACC;EACA;EACA;EACA;EACA;EACA;;;AAQH;EACC;IACC;;EAGC;IACC;;EAEA;IACC;;;AAOL;EACC;IACC;;EAEA;IACC;;EACA;IACC;;EAGD;IACC",
+  "file": "style.css"
+}
