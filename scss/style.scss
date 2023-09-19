@@ -32,3 +32,36 @@ body {
 		}
 	}
 }
+
+@media screen and (max-width: 990px) {
+	body {
+		background: aqua;
+
+		section {
+			h1 {
+				color: aqua;
+			}
+
+			a {
+				background: aqua;
+			}
+		}
+	}
+}
+
+@media screen and (max-width: 599px) {
+	body {
+		background: orange;
+
+		section {
+			width: 80%;
+			h1 {
+				color: orange;
+			}
+
+			a {
+				background: orange;
+			}
+		}
+	}
+}
